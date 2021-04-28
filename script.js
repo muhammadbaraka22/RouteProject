@@ -1,0 +1,1 @@
+document.getElementById("demo").innerHTML="welcome git from js";
